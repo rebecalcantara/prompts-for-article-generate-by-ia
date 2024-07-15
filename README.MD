@@ -26,19 +26,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigo sobre o assunto - Efeitos da inteligência artificial na educação                                                                                                                                                                        |
-| conteúdo | Comporte-se como um escritor de artigos e escreva um artigo atendendo as regras abaixo: {REGRAS}
-
->No máximo 5 linhas por blocos de explicação
-
->Me explique de maneira informal, como se eu fosse uma criança de 10 anos
-
->Os blocos que serão criados estão abaixo: 
-
-- Aspectos conceituais da inteligência artificial na educação: Oportunidades e desafios a serem considerados
-- Debates atuais e o uso ético de IA na educação
-- Aplicações práticas da Inteligência Artificial na educação: CogBooks; Mindspark; Arbor Education; M-Shule; Cite mais aplicações
-- faça um call to action para as minhas redes sociais
-- Coloque 3 hashtags que façam sentido                                                                                                 |
+| conteúdo | Comporte-se como um escritor de artigos e escreva um artigo atendendo as regras abaixo: {REGRAS}>No máximo 5 linhas por blocos de explicação; >Me explique de maneira informal, como se eu fosse uma criança de 10 anos; >Os blocos que serão criados estão abaixo: - Aspectos conceituais da inteligência artificial na educação: Oportunidades e desafios a serem considerados; - Debates atuais e o uso ético de IA na educação; - Aplicações práticas da Inteligência Artificial na educação: CogBooks; Mindspark; Arbor Education; M-Shule; Cite mais aplicações; - faça um call to action para as minhas redes sociais; - Coloque 3 hashtags que façam sentido                                                  |
 
 
 Lexica.art：
